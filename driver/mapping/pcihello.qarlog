@@ -1,0 +1,130 @@
+Quartus Prime Archive log --	D:/Users/lgaj/Downloads/mapeamento-0.2-alunos/mapeamento/pcihello.qarlog
+
+Archive:	D:/Users/lgaj/Downloads/mapeamento-0.2-alunos/mapeamento/pcihello.qar
+Date:		Fri Jun 07 14:45:43 2024
+Quartus Prime		17.1.0 Build 590 10/25/2017 SJ Lite Edition
+
+	=========== Files Selected: ===========
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/db/ip/pcihellocore/submodules/altera_pci_express.sdc
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/db/ip/pcihellocore/submodules/altera_reset_controller.sdc
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello.SDC
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello.cmp
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello.qpf
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello.qsf
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello.sdc
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihello_assignment_defaults.qdf
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore.cmp
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore.qsys
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore.sopcinfo
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore.bsf
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore.cmp
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore.html
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore.xml
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore_bb.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore_generation.rpt
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore_inst.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/pcihellocore_inst.vhd
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/pcihellocore.debuginfo
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/pcihellocore.qip
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/pcihellocore.regmap
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/pcihellocore.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_avalon_sc_fifo.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_avalon_st_clock_crosser.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_avalon_st_handshake_clock_crosser.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_avalon_st_pipeline_base.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_avalon_st_pipeline_stage.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_default_burst_converter.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_incr_burst_converter.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_irq_clock_crosser.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_address_alignment.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_arbitrator.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_burst_adapter.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_burst_adapter_13_1.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_burst_adapter_new.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_burst_adapter_uncmpr.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_burst_uncompressor.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_master_agent.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_master_translator.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_reorder_memory.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_slave_agent.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_slave_translator.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_traffic_limiter.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_merlin_width_adapter.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_pci_express.sdc
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_pcie_hard_ip_reset_controller.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_reset_controller.sdc
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_reset_controller.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_reset_synchronizer.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altera_wrap_burst_converter.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpcie_hip_pipen1b_qsys.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpcie_pcie_reconfig_bridge.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpcie_pipe_interface.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpcie_pll_100_250.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpcie_pll_125_250.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpcie_rs_serdes.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_clksync.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_lite_app.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_a2p_addrtrans.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_a2p_fixtrans.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_a2p_vartrans.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_app.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_cfg_status.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_control_register.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_cr_avalon.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_cr_interrupt.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_cr_mailbox.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_p2a_addrtrans.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_reg_fifo.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_rx.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_rx_cntrl.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_rx_resp.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_tx.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_tx_cntrl.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_txavl_cntrl.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/altpciexpav_stif_txresp_cntrl.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_addr_router.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_cmd_xbar_demux.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_hexport.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_id_router.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_id_router_003.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_inport.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_irq_mapper.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_avalon_st_adapter.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_avalon_st_adapter_003.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_avalon_st_adapter_003_error_adapter_0.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_avalon_st_adapter_error_adapter_0.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_cmd_demux.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_cmd_mux.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_router.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_router_001.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_router_004.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_rsp_demux.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_mm_interconnect_0_rsp_mux.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_pcie_hard_ip_0.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_pcie_hard_ip_0_altgx_internal.v
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_rsp_xbar_demux.sv
+D:/Users/lgaj/Downloads/mapeamento-0.1-rc1/mapeamento/pcihello_restored/pcihellocore/synthesis/submodules/pcihellocore_rsp_xbar_mux.sv
+	======= Total: 101 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Fri Jun 07 14:46:00 2024
+Source archive file:	D:/Users/lgaj/Downloads/mapeamento-0.2-alunos/mapeamento/pcihello.qar
+Archive was extracted into	D:/Users/lgaj/Downloads/mapeamento-0.2-alunos/mapeamento/pcihello_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Mon Jul 08 16:30:18 2024
+Source archive file:	D:/Users/hlpaa/Documents/pcihello.qar
+Archive was extracted into	D:/Users/hlpaa/Documents/pcihello_restored/
+		 - successfully.
+
+
+******* Archived project restoration attempt on Wed Jul 10 13:24:16 2024
+Source archive file:	D:/Users/fpm3/Documents/ConfigPlacaIHS/pcihello.qar
+Archive was extracted into	D:/Users/fpm3/Documents/ConfigPlacaIHS/pcihello_restored/
+		 - successfully.
